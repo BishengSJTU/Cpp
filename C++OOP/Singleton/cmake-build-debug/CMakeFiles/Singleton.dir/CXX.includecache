@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/main.cpp
+iostream
+-
+singleton.h
+C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/singleton.h
+
+C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/singleton.h
+iostream
+-
+
