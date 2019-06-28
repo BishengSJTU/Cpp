@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BiShe/Desktop/C++/C++OOP/my_string/main.cpp
+iostream
+-
+mystring.h
+C:/Users/BiShe/Desktop/C++/C++OOP/my_string/mystring.h
+
+C:/Users/BiShe/Desktop/C++/C++OOP/my_string/mystring.h
+string.h
+-
+iostream
+-
+
