@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.cpp
+mystring.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
+string.h
+-
+iostream
+-
+

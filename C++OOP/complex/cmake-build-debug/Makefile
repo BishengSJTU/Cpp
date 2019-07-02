@@ -47,10 +47,10 @@ RM = C:\Users\BiShe\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.6183.77\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\BiShe\Desktop\C++\C++OOP\complex
+CMAKE_SOURCE_DIR = C:\Users\BiShe\Desktop\cpp\C++OOP\Complex
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,17 +110,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named complex
+# Target rules for targets named Complex
 
 # Build rule for target.
-complex: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 complex
-.PHONY : complex
+Complex: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Complex
+.PHONY : Complex
 
 # fast build rule for target.
-complex/fast:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/build
-.PHONY : complex/fast
+Complex/fast:
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/build
+.PHONY : Complex/fast
 
 complex.obj: complex.cpp.obj
 
@@ -128,7 +128,7 @@ complex.obj: complex.cpp.obj
 
 # target to build an object file
 complex.cpp.obj:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/complex.cpp.obj
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/complex.cpp.obj
 .PHONY : complex.cpp.obj
 
 complex.i: complex.cpp.i
@@ -137,7 +137,7 @@ complex.i: complex.cpp.i
 
 # target to preprocess a source file
 complex.cpp.i:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/complex.cpp.i
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/complex.cpp.i
 .PHONY : complex.cpp.i
 
 complex.s: complex.cpp.s
@@ -146,7 +146,7 @@ complex.s: complex.cpp.s
 
 # target to generate assembly for a file
 complex.cpp.s:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/complex.cpp.s
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/complex.cpp.s
 .PHONY : complex.cpp.s
 
 main.obj: main.cpp.obj
@@ -155,7 +155,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/main.cpp.obj
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -164,7 +164,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -173,7 +173,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 my_complex.obj: my_complex.cpp.obj
@@ -182,7 +182,7 @@ my_complex.obj: my_complex.cpp.obj
 
 # target to build an object file
 my_complex.cpp.obj:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/my_complex.cpp.obj
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/my_complex.cpp.obj
 .PHONY : my_complex.cpp.obj
 
 my_complex.i: my_complex.cpp.i
@@ -191,7 +191,7 @@ my_complex.i: my_complex.cpp.i
 
 # target to preprocess a source file
 my_complex.cpp.i:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/my_complex.cpp.i
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/my_complex.cpp.i
 .PHONY : my_complex.cpp.i
 
 my_complex.s: my_complex.cpp.s
@@ -200,7 +200,7 @@ my_complex.s: my_complex.cpp.s
 
 # target to generate assembly for a file
 my_complex.cpp.s:
-	$(MAKE) -f CMakeFiles\complex.dir\build.make CMakeFiles/complex.dir/my_complex.cpp.s
+	$(MAKE) -f CMakeFiles\Complex.dir\build.make CMakeFiles/Complex.dir/my_complex.cpp.s
 .PHONY : my_complex.cpp.s
 
 # Help Target
@@ -209,7 +209,7 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... complex
+	@echo ... Complex
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... complex.obj

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
-project(complex)
+project(Complex)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(complex main.cpp complex.cpp complex.h my_complex.cpp my_complex.h)
+add_executable(Complex main.cpp complex.cpp complex.h my_complex.h my_complex.cpp)

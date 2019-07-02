@@ -42,88 +42,88 @@ RM = C:\Users\BiShe\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.6183.77\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\BiShe\Desktop\C++\C++OOP\complex
+CMAKE_SOURCE_DIR = C:\Users\BiShe\Desktop\cpp\C++OOP\Complex
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug
 
 # Include any dependencies generated for this target.
-include CMakeFiles/complex.dir/depend.make
+include CMakeFiles/Complex.dir/depend.make
 
 # Include the progress variables for this target.
-include CMakeFiles/complex.dir/progress.make
+include CMakeFiles/Complex.dir/progress.make
 
 # Include the compile flags for this target's objects.
-include CMakeFiles/complex.dir/flags.make
+include CMakeFiles/Complex.dir/flags.make
 
-CMakeFiles/complex.dir/main.cpp.obj: CMakeFiles/complex.dir/flags.make
-CMakeFiles/complex.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/complex.dir/main.cpp.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\complex.dir\main.cpp.obj -c C:\Users\BiShe\Desktop\C++\C++OOP\complex\main.cpp
+CMakeFiles/Complex.dir/main.cpp.obj: CMakeFiles/Complex.dir/flags.make
+CMakeFiles/Complex.dir/main.cpp.obj: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Complex.dir/main.cpp.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Complex.dir\main.cpp.obj -c C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\main.cpp
 
-CMakeFiles/complex.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/complex.dir/main.cpp.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\C++\C++OOP\complex\main.cpp > CMakeFiles\complex.dir\main.cpp.i
+CMakeFiles/Complex.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Complex.dir/main.cpp.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\main.cpp > CMakeFiles\Complex.dir\main.cpp.i
 
-CMakeFiles/complex.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/complex.dir/main.cpp.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\C++\C++OOP\complex\main.cpp -o CMakeFiles\complex.dir\main.cpp.s
+CMakeFiles/Complex.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Complex.dir/main.cpp.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\main.cpp -o CMakeFiles\Complex.dir\main.cpp.s
 
-CMakeFiles/complex.dir/complex.cpp.obj: CMakeFiles/complex.dir/flags.make
-CMakeFiles/complex.dir/complex.cpp.obj: ../complex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/complex.dir/complex.cpp.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\complex.dir\complex.cpp.obj -c C:\Users\BiShe\Desktop\C++\C++OOP\complex\complex.cpp
+CMakeFiles/Complex.dir/complex.cpp.obj: CMakeFiles/Complex.dir/flags.make
+CMakeFiles/Complex.dir/complex.cpp.obj: ../complex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Complex.dir/complex.cpp.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Complex.dir\complex.cpp.obj -c C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\complex.cpp
 
-CMakeFiles/complex.dir/complex.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/complex.dir/complex.cpp.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\C++\C++OOP\complex\complex.cpp > CMakeFiles\complex.dir\complex.cpp.i
+CMakeFiles/Complex.dir/complex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Complex.dir/complex.cpp.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\complex.cpp > CMakeFiles\Complex.dir\complex.cpp.i
 
-CMakeFiles/complex.dir/complex.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/complex.dir/complex.cpp.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\C++\C++OOP\complex\complex.cpp -o CMakeFiles\complex.dir\complex.cpp.s
+CMakeFiles/Complex.dir/complex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Complex.dir/complex.cpp.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\complex.cpp -o CMakeFiles\Complex.dir\complex.cpp.s
 
-CMakeFiles/complex.dir/my_complex.cpp.obj: CMakeFiles/complex.dir/flags.make
-CMakeFiles/complex.dir/my_complex.cpp.obj: ../my_complex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/complex.dir/my_complex.cpp.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\complex.dir\my_complex.cpp.obj -c C:\Users\BiShe\Desktop\C++\C++OOP\complex\my_complex.cpp
+CMakeFiles/Complex.dir/my_complex.cpp.obj: CMakeFiles/Complex.dir/flags.make
+CMakeFiles/Complex.dir/my_complex.cpp.obj: ../my_complex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Complex.dir/my_complex.cpp.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Complex.dir\my_complex.cpp.obj -c C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\my_complex.cpp
 
-CMakeFiles/complex.dir/my_complex.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/complex.dir/my_complex.cpp.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\C++\C++OOP\complex\my_complex.cpp > CMakeFiles\complex.dir\my_complex.cpp.i
+CMakeFiles/Complex.dir/my_complex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Complex.dir/my_complex.cpp.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\my_complex.cpp > CMakeFiles\Complex.dir\my_complex.cpp.i
 
-CMakeFiles/complex.dir/my_complex.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/complex.dir/my_complex.cpp.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\C++\C++OOP\complex\my_complex.cpp -o CMakeFiles\complex.dir\my_complex.cpp.s
+CMakeFiles/Complex.dir/my_complex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Complex.dir/my_complex.cpp.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\my_complex.cpp -o CMakeFiles\Complex.dir\my_complex.cpp.s
 
-# Object files for target complex
-complex_OBJECTS = \
-"CMakeFiles/complex.dir/main.cpp.obj" \
-"CMakeFiles/complex.dir/complex.cpp.obj" \
-"CMakeFiles/complex.dir/my_complex.cpp.obj"
+# Object files for target Complex
+Complex_OBJECTS = \
+"CMakeFiles/Complex.dir/main.cpp.obj" \
+"CMakeFiles/Complex.dir/complex.cpp.obj" \
+"CMakeFiles/Complex.dir/my_complex.cpp.obj"
 
-# External object files for target complex
-complex_EXTERNAL_OBJECTS =
+# External object files for target Complex
+Complex_EXTERNAL_OBJECTS =
 
-complex.exe: CMakeFiles/complex.dir/main.cpp.obj
-complex.exe: CMakeFiles/complex.dir/complex.cpp.obj
-complex.exe: CMakeFiles/complex.dir/my_complex.cpp.obj
-complex.exe: CMakeFiles/complex.dir/build.make
-complex.exe: CMakeFiles/complex.dir/linklibs.rsp
-complex.exe: CMakeFiles/complex.dir/objects1.rsp
-complex.exe: CMakeFiles/complex.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable complex.exe"
-	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\complex.dir\link.txt --verbose=$(VERBOSE)
+Complex.exe: CMakeFiles/Complex.dir/main.cpp.obj
+Complex.exe: CMakeFiles/Complex.dir/complex.cpp.obj
+Complex.exe: CMakeFiles/Complex.dir/my_complex.cpp.obj
+Complex.exe: CMakeFiles/Complex.dir/build.make
+Complex.exe: CMakeFiles/Complex.dir/linklibs.rsp
+Complex.exe: CMakeFiles/Complex.dir/objects1.rsp
+Complex.exe: CMakeFiles/Complex.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Complex.exe"
+	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Complex.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/complex.dir/build: complex.exe
+CMakeFiles/Complex.dir/build: Complex.exe
 
-.PHONY : CMakeFiles/complex.dir/build
+.PHONY : CMakeFiles/Complex.dir/build
 
-CMakeFiles/complex.dir/clean:
-	$(CMAKE_COMMAND) -P CMakeFiles\complex.dir\cmake_clean.cmake
-.PHONY : CMakeFiles/complex.dir/clean
+CMakeFiles/Complex.dir/clean:
+	$(CMAKE_COMMAND) -P CMakeFiles\Complex.dir\cmake_clean.cmake
+.PHONY : CMakeFiles/Complex.dir/clean
 
-CMakeFiles/complex.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\BiShe\Desktop\C++\C++OOP\complex C:\Users\BiShe\Desktop\C++\C++OOP\complex C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug C:\Users\BiShe\Desktop\C++\C++OOP\complex\cmake-build-debug\CMakeFiles\complex.dir\DependInfo.cmake --color=$(COLOR)
-.PHONY : CMakeFiles/complex.dir/depend
+CMakeFiles/Complex.dir/depend:
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\BiShe\Desktop\cpp\C++OOP\Complex C:\Users\BiShe\Desktop\cpp\C++OOP\Complex C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug C:\Users\BiShe\Desktop\cpp\C++OOP\Complex\cmake-build-debug\CMakeFiles\Complex.dir\DependInfo.cmake --color=$(COLOR)
+.PHONY : CMakeFiles/Complex.dir/depend
 

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/BiShe/Desktop/C++/C++OOP/complex/complex.cpp" "C:/Users/BiShe/Desktop/C++/C++OOP/complex/cmake-build-debug/CMakeFiles/complex.dir/complex.cpp.obj"
-  "C:/Users/BiShe/Desktop/C++/C++OOP/complex/main.cpp" "C:/Users/BiShe/Desktop/C++/C++OOP/complex/cmake-build-debug/CMakeFiles/complex.dir/main.cpp.obj"
-  "C:/Users/BiShe/Desktop/C++/C++OOP/complex/my_complex.cpp" "C:/Users/BiShe/Desktop/C++/C++OOP/complex/cmake-build-debug/CMakeFiles/complex.dir/my_complex.cpp.obj"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/complex.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/cmake-build-debug/CMakeFiles/Complex.dir/complex.cpp.obj"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/main.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/cmake-build-debug/CMakeFiles/Complex.dir/main.cpp.obj"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/my_complex.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/Complex/cmake-build-debug/CMakeFiles/Complex.dir/my_complex.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
