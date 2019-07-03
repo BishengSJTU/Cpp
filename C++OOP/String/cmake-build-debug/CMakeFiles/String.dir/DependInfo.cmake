@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bisheng/CLionProjects/Cpp/C++OOP/String/String.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/String.cpp.o"
-  "/home/bisheng/CLionProjects/Cpp/C++OOP/String/main.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/main.cpp.o"
-  "/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/mystring.cpp.o"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/String/String.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/String.cpp.obj"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/String/main.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/main.cpp.obj"
+  "C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.cpp" "C:/Users/BiShe/Desktop/cpp/C++OOP/String/cmake-build-debug/CMakeFiles/String.dir/mystring.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

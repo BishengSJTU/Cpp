@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/application.cpp
+application.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/application.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/application.h
+library.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/library.h
+iostream
+-
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/library.cpp
+library.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/library.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/library.h
+iostream
+-
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/main.cpp
+iostream
+-
+library.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/library.h
+application.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/template_pattern/application.h
+

@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.cpp
+Observer.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.h
+Subject.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer1.cpp
+Observer1.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer1.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer1.h
+iostream
+-
+Observer.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.h
+Subject.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.cpp
+Subject.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.h
+vector
+-
+iostream
+-
+Observer.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/main.cpp
+iostream
+-
+vector
+-
+Subject.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Subject.h
+Observer.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer.h
+Observer1.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/Observer1.h
+

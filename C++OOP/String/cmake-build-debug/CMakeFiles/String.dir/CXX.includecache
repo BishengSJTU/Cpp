@@ -6,11 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.cpp
-mystring.h
-/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/String.h
+cstring
+-
+iostream
+-
 
-/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/main.cpp
+iostream
+-
+mystring.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
+String.h
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/String.h
+
+C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
 cstring
 -
 iostream
