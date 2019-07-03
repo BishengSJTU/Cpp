@@ -3,4 +3,4 @@ project(Singleton)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Singleton main.cpp singleton.h)
+add_executable(Singleton main.cpp Singleton.h Singleton.cpp Singleton2.h Singleton2.cpp)

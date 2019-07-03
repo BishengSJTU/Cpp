@@ -1,10 +1,12 @@
 #include <iostream>
 #include "mystring.h"
+#include "String.h"
 using namespace std;
 int main() {
-    Mystring s("hello");
-    Mystring s1("world");
-    s = s1;
-    cout << s << endl;
+    mystring p1("hey");
+    mystring p2("baby");
+
+    p1 = p2;
+    cout << p1 << endl;
     return 0;
 }

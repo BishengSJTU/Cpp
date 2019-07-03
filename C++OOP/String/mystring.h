@@ -1,23 +1,25 @@
-#ifndef __MYSTRING_H
-#include <string.h>
+#ifndef __MY_STRING_H
+#define __MY_STRING_H
+
+#include <cstring>
 #include <iostream>
 using namespace std;
-class Mystring;
 
-// 此类的特殊之处是成员含有指针
-class Mystring
-{
+class mystring;
+ostream& operator << (ostream& os, const mystring& str);
+
+class mystring {
 public:
-    // 含有指针的类必须自己定义拷贝构造，拷贝赋值，和析构函数 Big Three
-    Mystring(const char* cstr = 0);
-    Mystring(const Mystring& str);
-    Mystring& operator=(const Mystring& str);
-    ~Mystring();
-    char* get_c_str() const { return m_data; }
+    mystring(const char* cstr = 0);
+    mystring(const mystring& str);
+    mystring& operator = (const mystring& str);
+    ~mystring();
+
+    char* get_cstr() const
+    { return m_data;}
+
 private:
-    char* m_data;
-    friend ostream& operator << (ostream& os, const Mystring& str);
+    char * m_data;
 };
 
-#define __MYSTRING_H
 #endif

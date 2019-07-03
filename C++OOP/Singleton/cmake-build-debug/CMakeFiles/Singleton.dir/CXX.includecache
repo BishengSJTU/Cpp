@@ -6,13 +6,23 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/main.cpp
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton.h
 iostream
 -
-singleton.h
-C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/singleton.h
 
-C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/singleton.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton2.cpp
+Singleton2.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton2.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton2.h
 iostream
 -
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/main.cpp
+iostream
+-
+Singleton.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton.h
+Singleton2.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton2.h
 

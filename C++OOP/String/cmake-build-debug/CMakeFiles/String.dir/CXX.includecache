@@ -6,12 +6,12 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.cpp
+/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.cpp
 mystring.h
-C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.h
 
-C:/Users/BiShe/Desktop/cpp/C++OOP/String/mystring.h
-string.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/String/mystring.h
+cstring
 -
 iostream
 -

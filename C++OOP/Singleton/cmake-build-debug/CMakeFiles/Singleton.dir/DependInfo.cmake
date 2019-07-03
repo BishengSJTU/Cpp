@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/main.cpp" "C:/Users/BiShe/Desktop/C++/C++OOP/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir/main.cpp.obj"
+  "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir/Singleton.cpp.o"
+  "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/Singleton2.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir/Singleton2.cpp.o"
+  "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/main.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

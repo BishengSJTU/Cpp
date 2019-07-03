@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Singleton.dir/main.cpp.obj"
+  "CMakeFiles/Singleton.dir/main.cpp.o"
+  "CMakeFiles/Singleton.dir/Singleton.cpp.o"
+  "CMakeFiles/Singleton.dir/Singleton2.cpp.o"
   "Singleton.pdb"
-  "Singleton.exe"
-  "Singleton.exe.manifest"
-  "libSingleton.dll.a"
+  "Singleton"
 )
 
 # Per-language clean rules from dependency scanning.

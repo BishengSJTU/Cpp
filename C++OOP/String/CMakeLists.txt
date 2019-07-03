@@ -3,4 +3,4 @@ project(String)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(String main.cpp mystring.h mystring.cpp)
+add_executable(String main.cpp mystring.h mystring.cpp String.h String.cpp)
