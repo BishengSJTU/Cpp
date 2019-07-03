@@ -1,3 +1,0 @@
-C:/Users/BiShe/Desktop/C++/C++OOP/my_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/BiShe/Desktop/C++/C++OOP/my_string/cmake-build-debug/CMakeFiles/my_string.dir
-C:/Users/BiShe/Desktop/C++/C++OOP/my_string/cmake-build-debug/CMakeFiles/edit_cache.dir
