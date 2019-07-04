@@ -7,8 +7,9 @@ using namespace std;
 
 int main() {
     Subject s;
-    Observer1 obs1(s, 1);
-    Observer1 obs2;
-    s.addObserver(obs2);
+    Observer1 o1;
+    Observer1 o2(s, 1);
+    s.addObserver(o1);
+    s.setValue(5);
     return 0;
 }

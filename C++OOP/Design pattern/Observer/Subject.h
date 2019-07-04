@@ -1,10 +1,10 @@
 #ifndef OBSERVER_SUBJECT_H
 #define OBSERVER_SUBJECT_H
+
 #include <vector>
 #include <iostream>
 #include "Observer.h"
 using namespace std;
-class Observer;
 
 class Subject{
 public:

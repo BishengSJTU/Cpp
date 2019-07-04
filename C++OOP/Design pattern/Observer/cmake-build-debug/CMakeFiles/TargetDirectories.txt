@@ -1,3 +1,3 @@
-C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/Observer.dir
-C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/BiShe/Desktop/cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bisheng/CLionProjects/Cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bisheng/CLionProjects/Cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/Observer.dir
+/home/bisheng/CLionProjects/Cpp/C++OOP/Design pattern/Observer/cmake-build-debug/CMakeFiles/edit_cache.dir

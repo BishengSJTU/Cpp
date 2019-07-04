@@ -1,12 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Observer.dir/main.cpp.obj"
-  "CMakeFiles/Observer.dir/Subject.cpp.obj"
-  "CMakeFiles/Observer.dir/Observer.cpp.obj"
-  "CMakeFiles/Observer.dir/Observer1.cpp.obj"
+  "CMakeFiles/Observer.dir/main.cpp.o"
+  "CMakeFiles/Observer.dir/Subject.cpp.o"
+  "CMakeFiles/Observer.dir/Observer.cpp.o"
+  "CMakeFiles/Observer.dir/Observer1.cpp.o"
   "Observer.pdb"
-  "Observer.exe"
-  "Observer.exe.manifest"
-  "libObserver.dll.a"
+  "Observer"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,11 @@
 #ifndef OBSERVER_OBSERVER1_H
 #define OBSERVER_OBSERVER1_H
+
 #include <iostream>
 #include "Observer.h"
 #include "Subject.h"
 using namespace std;
+
 class Subject;
 class Observer1:public Observer{
 public:
@@ -15,11 +17,10 @@ public:
         m_id = id;
     }
     virtual void update(int val) {
-        cout << "Observer1:" << val << endl;
+        cout << "Observer1id:" << m_id << " value:" << val << endl;
     }
 private:
     int m_id;
 };
-
 
 #endif
