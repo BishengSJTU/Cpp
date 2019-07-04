@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/bisheng/CLionProjects/conversion_function/Fraction.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/Fraction.h
 
-/home/bisheng/CLionProjects/conversion_function/main.cpp
+/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/main.cpp
 iostream
 -
 Fraction.h
-/home/bisheng/CLionProjects/conversion_function/Fraction.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/Fraction.h
 

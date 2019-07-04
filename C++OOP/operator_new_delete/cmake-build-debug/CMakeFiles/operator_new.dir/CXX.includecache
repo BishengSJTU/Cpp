@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/operator_new_delete/main.cpp
+iostream
+-
+operator_new_delete.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/operator_new_delete/operator_new_delete.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/operator_new_delete/operator_new_delete.h
+cstdlib
+-
+iostream
+-
+

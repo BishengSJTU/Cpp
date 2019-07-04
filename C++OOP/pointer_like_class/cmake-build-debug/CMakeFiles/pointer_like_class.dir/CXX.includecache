@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/pointer_like_class/main.cpp
+iostream
+-
+share_ptr.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/pointer_like_class/share_ptr.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/pointer_like_class/share_ptr.cpp
+share_ptr.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/pointer_like_class/share_ptr.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/pointer_like_class/share_ptr.h
+

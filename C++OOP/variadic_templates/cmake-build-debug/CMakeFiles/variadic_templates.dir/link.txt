@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/variadic_templates.dir/main.cpp.o CMakeFiles/variadic_templates.dir/var_template.cpp.o  -o variadic_templates 

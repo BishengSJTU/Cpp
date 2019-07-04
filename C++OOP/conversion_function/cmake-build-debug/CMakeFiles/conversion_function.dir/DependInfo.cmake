@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bisheng/CLionProjects/conversion_function/main.cpp" "/home/bisheng/CLionProjects/conversion_function/cmake-build-debug/CMakeFiles/conversion_function.dir/main.cpp.o"
+  "/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/main.cpp" "/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/cmake-build-debug/CMakeFiles/conversion_function.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

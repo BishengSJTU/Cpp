@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/function_like_class.dir/main.cpp.o CMakeFiles/function_like_class.dir/plus.cpp.o  -o function_like_class 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/bisheng/CLionProjects/conversion_function
+# Install script for directory: /home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bisheng/CLionProjects/conversion_function/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bisheng/CLionProjects/Cpp/C++OOP/conversion_function/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

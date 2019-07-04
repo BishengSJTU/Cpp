@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/variadic_templates/main.cpp
+iostream
+-
+var_template.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/variadic_templates/var_template.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/variadic_templates/var_template.cpp
+var_template.h
+/home/bisheng/CLionProjects/Cpp/C++OOP/variadic_templates/var_template.h
+
+/home/bisheng/CLionProjects/Cpp/C++OOP/variadic_templates/var_template.h
+iostream
+-
+

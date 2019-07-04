@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pointer_like_class.dir/main.cpp.o CMakeFiles/pointer_like_class.dir/share_ptr.cpp.o  -o pointer_like_class 
